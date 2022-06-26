@@ -1,0 +1,24 @@
+.service{
+    display: flex; flex-wrap: wrap; justify-content: center; align-items: center;
+}
+.service img{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    border: 3px solid #009688;
+    transition: all 0.5s;
+    border-radius: 50px;
+}
+.service img:hover{
+    transform: scale(1.1);
+    box-shadow: 7px 6px 6px #a0a4a7;
+}
+.container{
+    font-family: sans-serif;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

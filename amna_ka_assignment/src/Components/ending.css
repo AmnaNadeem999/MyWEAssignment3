@@ -1,0 +1,62 @@
+.userbox img{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 200px;
+    width: 250px;
+    border: 2px solid #009688;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.userbox img:hover{
+transform: scale(1.1);
+}
+.userbox h1{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin: 10px;
+    text-align: center;
+    /* font-size: 50px; */
+}
+.userbox p{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 90px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: black;
+  }
+  /* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-youtube {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-instagram {
+    background: #55ACEE;
+    color: white;
+  }

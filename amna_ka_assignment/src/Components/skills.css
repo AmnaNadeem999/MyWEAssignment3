@@ -1,0 +1,38 @@
+
+.skills{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    font-family: sans-serif;
+    margin-top: 100px;
+    background-color: #009688;
+    opacity: 0.9;
+    border-radius: 90px;
+    margin-Left: 80px;
+    margin-right: 80px;
+    margin-bottom: 90px;
+}
+
+.skills p{
+    margin-bottom: 6px;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    width: 100%;
+}
+.progress{
+    border-radius: 16px !important;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    background-color: grey;
+    height: fit-content;
+    font-size: 16px;
+    width: 100% ;
+}
+.progress-bar{
+    text-align: center;
+    color: #fff;
+    border-radius: 16px;
+    background: #000 !important;
+}
