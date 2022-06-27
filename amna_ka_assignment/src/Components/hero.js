@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import CV from '../Finale.pdf'
 import './hero.css';
 
 class Hero extends Component{ 

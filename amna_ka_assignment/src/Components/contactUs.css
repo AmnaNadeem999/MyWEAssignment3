@@ -1,0 +1,24 @@
+.forms{
+    background-color: #009688;
+    width: 450px;
+    opacity: 0.9;
+    margin: 90px;
+    padding: 20px;
+    border-radius:50px ;
+}
+.forms h2{
+    color: white;
+    font-weight: bold;
+}
+.forms input{
+    border-radius:30px ;
+    border: 2px solid #009688;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.btn{
+    padding: 20px;
+    border: #009688;
+    background: white;
+    border-radius: 10px;
+}

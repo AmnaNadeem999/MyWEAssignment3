@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './top.css';
 
-class top extends Component{ 
+class topBtn extends Component{ 
     render(){
         var mybutton = document.getElementById("myBtn");
         window.onscroll = function() {scrollFunction()};   
@@ -21,4 +21,4 @@ class top extends Component{
         );
     } 
 }
-export default top;
+export default topBtn;

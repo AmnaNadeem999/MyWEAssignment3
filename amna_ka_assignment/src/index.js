@@ -11,6 +11,7 @@ import Top from './Components/top';
 // import Servicess from './Components/services';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
+import CountactUs from './Components/contactUs';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -21,6 +22,7 @@ root.render(
    <AboutMe/>
    <Skills/>
    <Resume/>
+   <CountactUs/>
    <Ending/>
    
    {/* <Servicess/> */}
